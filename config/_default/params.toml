@@ -12,13 +12,13 @@ published = "2. Jan 2006"
 lastUpdated = "2. Jan 2006, 15:04 (CET)"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+# emoji = ""
+subtitle = "Das Handwerk der Wahrheitssuche."
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/luz_alone.png"
 
 [article]
 math = false
