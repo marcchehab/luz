@@ -2,7 +2,7 @@
 baseurl = "https://marc.chehab.ch/luz/"
 languageCode = "de-CH"
 paginate = 5
-title = "Luz - Logik unserer Zeit"
+title = "Logik unserer Zeit"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -13,4 +13,4 @@ DefaultContentLanguage = "de"
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+# disqusShortname = "hugo-theme-stack"
