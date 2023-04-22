@@ -13,12 +13,14 @@ lastUpdated = "2. Jan 2006, 15:04 (CET)"
 
 [sidebar]
 # emoji = ""
-subtitle = "Das Handwerk der Wahrheitssuche."
+subtitle = "Wahrheitssuche als Handwerk"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/luz_alone.png"
+src = "img/luz_alone.svg"
+width = 200
+height = 200
 
 [article]
 math = false
