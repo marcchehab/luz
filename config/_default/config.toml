@@ -2,7 +2,7 @@
 baseurl = "https://marc.chehab.ch/luz/"
 languageCode = "de-CH"
 paginate = 5
-title = "Logik unserer Zeit"
+title = "LUZ - Wahrheitssuche als Handwerk."
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
