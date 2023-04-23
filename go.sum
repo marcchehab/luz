@@ -1,7 +1,5 @@
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0 h1:ZWF66g7aXA840CzsT4lv65wHSojqwY0Yj7KdvOkn5NA=
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
-github.com/marcchehab/luz-content v0.0.0-20230422115700-887b4a99aa9b h1:HHYdUfutzcyIP1vYi0pVHnHqh8z9OPtNSdltQXk/TQA=
-github.com/marcchehab/luz-content v0.0.0-20230422115700-887b4a99aa9b/go.mod h1:jcjQcXG7hcsVSpmurKnaa0f5BX7WXLRTs5El3jZaeb8=
 github.com/marcchehab/marcchehab.github.io v0.0.0-20230422130348-02c2b0060bfe h1:oDZ/B+brmMiZ7wABAgsD25it7ddu3DDrVpIkLIjVywU=
 github.com/marcchehab/marcchehab.github.io v0.0.0-20230422130348-02c2b0060bfe/go.mod h1:38Xn11W8dz0OEzNWtRqui6zOm+ggwFhulGC9ee3Jfno=
 github.com/marcchehab/marcchehab.github.io v0.0.0-20230422131602-301a6e3c3e56 h1:Kql2iG09UrAyxleSkiL/J95ZVrCsjfKqwsbkcW/G8rc=
