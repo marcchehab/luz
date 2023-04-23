@@ -1,9 +1,9 @@
 [[imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
-# [[imports]]
-# path = "github.com/marcchehab/marcchehab.github.io"
-# [[imports.mounts]]
-# source = "LUZ"
-# target = "content/post"
-# lang = "de"
+[[imports]]
+path = "github.com/marcchehab/marcchehab.github.io"
+[[imports.mounts]]
+source = "LUZ"
+target = "content/post"
+lang = "de"
