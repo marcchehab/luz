@@ -1,13 +1,13 @@
 ---
-title: Trying oust
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+title: Mal schauen ob das noch geht
+description: Welcome to Hugo Theme
+# slug: post-repo-2
+date: 2022-03-09 00:00:00+0000
+image: ape.jpg
 categories:
     - Example Category
 tags:
-    - Example Tag
+    - Another
 ---
 
 Welcome to Hugo theme Stack by Marc. This is your first post. Edit or delete it, then start writing!
