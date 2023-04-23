@@ -1,9 +1,9 @@
 ---
 title: Mal schauen ob das noch geht
 description: Welcome to Hugo Theme
-# slug: post-repo-2
-date: 2022-03-09 00:00:00+0000
-image: ape.jpg
+slug: post-repo-2
+# date: 2022-03-09 00:00:00+0000
+image: cover2.jpg
 categories:
     - Example Category
 tags:
