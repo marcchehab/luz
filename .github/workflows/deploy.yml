@@ -42,11 +42,11 @@ jobs:
                   hugo-version: "latest"
                   extended: true
 
-            - name: Update content
-                run: hugo mod get -u github.com/marcchehab/marcchehab.github.io/LUZ
-
             - name: Build
               run: hugo --minify --gc
+
+            - name: Update content
+                run: hugo mod get -u github.com/marcchehab/marcchehab.github.io/LUZ
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
