@@ -1,5 +1,5 @@
 # Change baseurl before deplo y
-baseurl = "https://marc.chehab.ch/luz/"
+baseurl = "https://www.logikunsererzeit.ch/"
 languageCode = "de-ch"
 paginate = 5
 title = "LUZ - Logik unserer Zeit"
