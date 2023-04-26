@@ -5,6 +5,6 @@ menu:
     main:
         weight: 3
         params: 
-            icon: search
+            icon: messages
 ---
-Das wäre der Inhalt?
+_(Wird geschrieben...)_
