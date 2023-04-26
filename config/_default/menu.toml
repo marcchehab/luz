@@ -1,11 +1,12 @@
 # Configure main menu and social menu
-[[main]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/marcchehab"
-[main.params]
-icon = "brand-twitter"
-newtab = true
+# [[main]]
+# identifier = "twitter"
+# name = "@marcchehab "
+# weight = 10
+# url = "https://twitter.com/marcchehab"
+# [main.params]
+# icon = "brand-twitter"
+# newtab = true
 
 # [[social]]
 # identifier = "twitter"
@@ -14,4 +15,3 @@ newtab = true
 
 # [social.params]
 # icon = "brand-twitter"
-
