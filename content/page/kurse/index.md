@@ -3,7 +3,7 @@ title: "Kurse"
 slug: "kurse"
 menu:
     main:
-        weight: 3
+        weight: 2
         params: 
             icon: messages
 ---
