@@ -4,10 +4,10 @@
         <div class="article-image">
             <a href="{{ .RelPermalink }}">
                 {{ if $image.resource }}
-                    <!-- Check if $avatar image is svg -->
-                    {{ if eq $image.MediaType.SubType "svg" }}
+                    <!-- Check if $image is svg -->
+                    {{ if eq $image.resource.MediaType.SubType "svg" }}
                     <!-- Extract SVG into variable -->
-                    {{ with $image.Content | safeHTML }}
+                    {{ with $image.resource.Content | safeHTML }}
                         {{ . }}
                     {{ end }}
                     {{ else }}
