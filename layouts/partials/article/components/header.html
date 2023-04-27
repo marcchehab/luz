@@ -4,6 +4,7 @@
         <div class="article-image">
             <a href="{{ .RelPermalink }}">
                 {{ if $image.resource }}
+                    <div id="yes_img"></div>
                     <!-- Check if $image is svg -->
                     {{ if eq $image.resource.MediaType.SubType "svg" }}
                     <!-- Extract SVG into variable -->
@@ -29,7 +30,7 @@
                             width="{{ $Width }}" 
                             height="{{ $Height }}" 
                             loading="lazy"
-                            alt="Featured image of post {{ .Title }}" />
+                            alt="Does this show? Featured image of post {{ .Title }}" />
                     {{- end -}} 
                 {{ else }}
                     <img src="{{ $image.permalink }}" loading="lazy" alt="Featured image of post {{ .Title }}" />
