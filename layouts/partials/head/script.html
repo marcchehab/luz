@@ -1,0 +1,21 @@
+<script>
+
+function toggleme(elem) {
+        if (elem.id == "toggle-z") {
+            let elems = document.querySelectorAll("svg#interactive2 > g");
+            elems.forEach(function(el) {
+                el.classList.toggle("active");
+            });
+        } else {
+            elem.parentElement.classList.toggle("active");
+        }
+}
+
+window.onload = function() {
+    document.getElementById("toggle-l").addEventListener("click", function(){toggleme(this)});
+    document.getElementById("toggle-u").addEventListener("click", function(){toggleme(this)});
+    document.getElementById("toggle-z").addEventListener("click", function(){toggleme(this)});
+    document.getElementById("l").classList.add("active");
+}
+
+</script>

@@ -18,7 +18,7 @@ subtitle = "Recherchen & Analysen zur Gegenwart"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/luz_alone.svg"
+src = "img/luz_round_interactive.svg"
 width = 200
 height = 200
 

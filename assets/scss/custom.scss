@@ -24,20 +24,52 @@
     }
 }
 
+.powerby {
+    display: none;
+}
+
 svg {
-    .cls-5 {
+    > circle {
         transition: 0.1s ease;
-        fill: var(--logo-background);
+        fill: var(--logo-background) !important;
     }
 
     &:hover {
-        .cls-5 {
+        > circle {
             filter: drop-shadow(0px 0px 100px #ffffff);
             filter:brightness(1.3);
         }
     }
-}
 
-.powerby {
-    display: none;
+    #l, #u, #z {
+        transition: 0.1s ease;
+        &.active rect {
+            fill: #73f47e;
+            opacity: 1;
+        }
+        &.active circle {
+            transform: translateY(-20px);
+        }
+        &.active path {
+            fill: white;
+            opacity: 0.4;
+            &.cls-1 {
+                opacity: 1;
+            }
+        }
+        &:not(.active) path {
+            opacity: 0;
+            &.cls-1 {
+                fill: #202020;
+                opacity: 1;
+            }
+        }
+
+    }
+    #toggle-l, #toggle-u, #toggle-z {
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
 }
