@@ -1,11 +1,28 @@
 <script>
-let solved = false;
+let solved = 0;
+const partycolors = ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ff00ff", "#00ffff"];
+
+function fadeInRealLogo() {
+    document.getElementById("#interactive").classList.add("reallogo");
+}
+function party() {
+    if (solved < 20) {
+        document.querySelectorAll("svg#svglogo #interactive > g").forEach((el) => {
+            color = partycolors[Math.floor(Math.random()*partycolors.length)];
+            el.querySelectorAll("path").forEach((el) => el.style.fill = color);
+        });
+        solved += 1;
+        setTimeout(party, 100);
+    } else {
+        setTimeout(fadeInRealLogo, 2000);
+    }
+}
 function toggleme(elem) {
     if (!solved) {
-        let elems = document.querySelectorAll("svg#interactive > g:not(#reallogo)");
+        let interactivekeys = document.querySelectorAll("#interactive > g");
         if (elem.id == "toggle-l") {
             elem.parentElement.classList.toggle("active");
-            document.getEslementById("z").classList.toggle("active");
+            document.getElementById("z").classList.toggle("active");
         } else if (elem.id == "toggle-u") {
             elem.parentElement.classList.toggle("active");
             document.getElementById("l").classList.toggle("active");
@@ -14,29 +31,29 @@ function toggleme(elem) {
             elem.parentElement.classList.toggle("active");
             document.getElementById("l").classList.toggle("active");
         }
-        elems = Array.from(elems);
-        solved = elems.every((el) => el.classList.contains("active"));
+        interactivekeys = Array.from(interactivekeys);
+        solved = 1 * interactivekeys.every((el) => el.classList.contains("active"));
         if (solved) {
-        elem.parentElement.parentElement.classList.add("solved");
+            elem.parentElement.parentElement.classList.add("solved");
+            document.getElementsByClassName("logo-congratulations")[0].classList.add("solved");
 
-        const src = "https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.9.3/tsparticles.confetti.bundle.min.js";
-        let script = document.createElement("script");
-        script.src = src;
-        script.onload = (async () => {
-            
-        var canvas = document.getElementsByClassName("site-logo")[0].appendChild(document.createElement("canvas"));
-        canvas.confetti = canvas.confetti || (await confetti.create(canvas, { resize: true }));
-
-        canvas.confetti({
-            particleCount: 300,
-            ticks: 400,
-            scalar: 0.5,
-            spread: 60,
-            origin: { y: 0.7 },
-        });
-        });
-        document.documentElement.firstChild.appendChild(script);
-    }
+            const src = "https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.9.3/tsparticles.confetti.bundle.min.js";
+            let script = document.createElement("script");
+            script.src = src;
+            script.onload = (async () => {
+                var canvas = document.getElementsByClassName("site-logo")[0].appendChild(document.createElement("canvas"));
+                canvas.confetti = canvas.confetti || (await confetti.create(canvas, { resize: true }));
+                canvas.confetti({
+                    particleCount: 300,
+                    ticks: 400,
+                    scalar: 0.5,
+                    spread: 60,
+                    origin: { y: 0.7 },
+                });
+            });
+            document.documentElement.firstChild.appendChild(script);
+            party();
+        }
     }
 }
 
