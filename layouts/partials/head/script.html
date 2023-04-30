@@ -1,14 +1,43 @@
 <script>
-
+let solved = false;
 function toggleme(elem) {
-        if (elem.id == "toggle-z") {
-            let elems = document.querySelectorAll("svg#interactive2 > g");
-            elems.forEach(function(el) {
-                el.classList.toggle("active");
-            });
-        } else {
+    if (!solved) {
+        let elems = document.querySelectorAll("svg#interactive > g:not(#reallogo)");
+        if (elem.id == "toggle-l") {
             elem.parentElement.classList.toggle("active");
+            document.getEslementById("z").classList.toggle("active");
+        } else if (elem.id == "toggle-u") {
+            elem.parentElement.classList.toggle("active");
+            document.getElementById("l").classList.toggle("active");
+        
+        } else if (elem.id == "toggle-z") {
+            elem.parentElement.classList.toggle("active");
+            document.getElementById("l").classList.toggle("active");
         }
+        elems = Array.from(elems);
+        solved = elems.every((el) => el.classList.contains("active"));
+        if (solved) {
+        elem.parentElement.parentElement.classList.add("solved");
+
+        const src = "https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.9.3/tsparticles.confetti.bundle.min.js";
+        let script = document.createElement("script");
+        script.src = src;
+        script.onload = (async () => {
+            
+        var canvas = document.getElementsByClassName("site-logo")[0].appendChild(document.createElement("canvas"));
+        canvas.confetti = canvas.confetti || (await confetti.create(canvas, { resize: true }));
+
+        canvas.confetti({
+            particleCount: 300,
+            ticks: 400,
+            scalar: 0.5,
+            spread: 60,
+            origin: { y: 0.7 },
+        });
+        });
+        document.documentElement.firstChild.appendChild(script);
+    }
+    }
 }
 
 window.onload = function() {
