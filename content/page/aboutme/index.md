@@ -2,7 +2,6 @@
 title: "Über Luz & Marc"
 slug: "aboutme"
 image: aboutme/attachments/luz_horiztonal.svg
-layout: fullpage
 menu:
     main:
         weight: 7
