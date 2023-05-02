@@ -107,7 +107,7 @@ svg#svglogo {
 #reallogo, #l, #u, #z {
     transition: visibility 0s, opacity 2s linear;
 }
-.reallogo {
+:root.reallogo {
     #reallogo {
         visibility: visible;
         opacity: 1;
