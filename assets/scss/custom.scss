@@ -102,24 +102,26 @@ svg#svglogo {
 
     }
 
+}
+
+#reallogo, #l, #u, #z {
+    transition: visibility 0s, opacity 2s linear;
+}
+.reallogo {
     #reallogo {
-        transition: visibility 0s, opacity 2s linear;
+        visibility: visible;
+        opacity: 1;
+    }
+    #l, #u, #z {
         visibility: hidden;
         opacity: 0;
     }
-    #l, #u, #z {
-        transition: visibility 0s, opacity 2s linear;
-        opacity: 1;
-        visibility: visible;
-    }
-    &.reallogo {
-        #reallogo {
-            visibility: visible;
-            opacity: 1;
-        }
-        #l, #u, #z {
-            visibility: hidden;
-            opacity: 0;
-        }
-    }
+}
+#reallogo {
+    visibility: hidden;
+    opacity: 0;
+}
+#l, #u, #z {
+    opacity: 1;
+    visibility: visible;
 }

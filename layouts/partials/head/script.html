@@ -1,9 +1,14 @@
 <script>
 let solved = 0;
+let showreallogo = false;
+if (localStorage.getItem("logoriddle") == "firstsolved") {
+    document.getElementsByTagName("html")[0].classList.add("reallogo");
+    showreallogo = true;
+}
 const partycolors = ["#F44336", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4"];
 
 function fadeInRealLogo() {
-    document.getElementById("svglogo").classList.add("reallogo");
+    document.getElementsByTagName("html")[0].classList.add("reallogo");
     localStorage.setItem("logoriddle", "firstsolved");
 }
 function party() {
@@ -58,8 +63,7 @@ function toggleme(elem) {
     }
 }
 function initlogo() {
-    if (localStorage.getItem("logoriddle") !== "firstsolved") {
-        document.getElementById("svglogo").classList.remove("reallogo");
+    if (!showreallogo) {
         document.getElementById("toggle-l").addEventListener("click", function(){toggleme(this)});
         document.getElementById("toggle-u").addEventListener("click", function(){toggleme(this)});
         document.getElementById("toggle-z").addEventListener("click", function(){toggleme(this)});
@@ -67,6 +71,7 @@ function initlogo() {
     }
 }
 window.addEventListener("DOMContentLoaded", () => {
+    initlogo();
 });
 
 </script>
