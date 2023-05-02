@@ -1,9 +1,10 @@
 <script>
 let solved = 0;
-const partycolors = ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ff00ff", "#00ffff"];
+const partycolors = ["#F44336", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#E91E63", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4", "#00BCD4", "#009688", "#4CAF50", "#8BC34A", "#CDDC39", "#FFEB3B", "#FFC107", "#FF9800", "#FF5722", "#795548", "#9E9E9E", "#607D8B", "#9C27B0", "#673AB7", "#3F51B5", "#2196F3", "#03A9F4"];
 
 function fadeInRealLogo() {
-    document.getElementById("#interactive").classList.add("reallogo");
+    document.getElementById("svglogo").classList.add("reallogo");
+    localStorage.setItem("logoriddle", "firstsolved");
 }
 function party() {
     if (solved < 20) {
@@ -56,12 +57,16 @@ function toggleme(elem) {
         }
     }
 }
-
-window.onload = function() {
-    document.getElementById("toggle-l").addEventListener("click", function(){toggleme(this)});
-    document.getElementById("toggle-u").addEventListener("click", function(){toggleme(this)});
-    document.getElementById("toggle-z").addEventListener("click", function(){toggleme(this)});
-    document.getElementById("l").classList.add("active");
+function initlogo() {
+    if (localStorage.getItem("logoriddle") !== "firstsolved") {
+        document.getElementById("svglogo").classList.remove("reallogo");
+        document.getElementById("toggle-l").addEventListener("click", function(){toggleme(this)});
+        document.getElementById("toggle-u").addEventListener("click", function(){toggleme(this)});
+        document.getElementById("toggle-z").addEventListener("click", function(){toggleme(this)});
+        document.getElementById("l").classList.add("active");
+    }
 }
+window.addEventListener("DOMContentLoaded", () => {
+});
 
 </script>

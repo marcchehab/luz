@@ -103,20 +103,23 @@ svg#svglogo {
     }
 
     #reallogo {
-        transition: all 1s smooth;
-        display:none;
+        transition: visibility 0s, opacity 2s linear;
+        visibility: hidden;
+        opacity: 0;
+    }
+    #l, #u, #z {
+        transition: visibility 0s, opacity 2s linear;
+        opacity: 1;
+        visibility: visible;
     }
     &.reallogo {
         #reallogo {
-            display:block;
+            visibility: visible;
+            opacity: 1;
         }
         #l, #u, #z {
-            display:none;
-            .cls-1 {
-                display: block;
-                opacity: 1;
-                fill:white;
-            }
+            visibility: hidden;
+            opacity: 0;
         }
     }
 }
