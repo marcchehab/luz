@@ -1,7 +1,6 @@
 ---
 title: "Über Luz & Marc"
 slug: "aboutme"
-image: aboutme/attachments/luz_horiztonal.svg
 menu:
     main:
         weight: 7
@@ -9,7 +8,7 @@ menu:
             icon: user
 ---
 
-Diese Webseite existiert, um das Handwerk der Wahrheitssuche zu zelebrieren. Wie unterscheidet man Fakten von Bullshit, Wissen von Unsinn? Dazu finden Sie hier, liebe Leserinnen und Leser, meine Beiträge – vorwiegend zur internationalen Politik und zu Konflikten.
+Diese Webseite ist noch im Aufbau und existiert, um das Handwerk der Wahrheitssuche zu zelebrieren. Wie unterscheidet man Fakten von Bullshit, Wissen von Unsinn? Dazu finden Sie hier, liebe Leserinnen und Leser, meine Beiträge – vorwiegend zur internationalen Politik und zu Konflikten.
 
 Wer bin ich? Ich bin Marc Chéhab, gelernter Informatiker aus Zürich. Ich habe an der Universität Bradford (UK) Konfliktforschung und in Barcelona (ES) Internationale Beziehungen studiert, was sich in der Themenwahl auf dieser Webseite niederschlägt
 
