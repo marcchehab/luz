@@ -1,6 +1,6 @@
 ---
-title: Tumult vor dem chinesischen Konsulat in Manchester
-description: Der chinesische Konsul verliess in Manchester mit 
+title: Tumult vor Chinas Konsulat in Manchester
+description: Der chinesische Konsul verliess in Manchester mit Mitarbeitern das Konsulat, um Plakate einer friedlichen Demonstration auf britischen Boden zu zerstören und damit die Meinungsäusserungsfreiheit der Demonstranten einzuschränken. Es folgte ein Gerangel und Gewalt.
 slug: chinesisches-konsulat-16-oktober-2022
 date: 2022-10-22
 image: post/attachments/Pasted image 20230426141945.png
