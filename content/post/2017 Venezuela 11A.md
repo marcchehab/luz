@@ -36,6 +36,7 @@ Um diesen Befund weiter zu überprüfen, habe ich [SketchUp](http://www.sketchu
 Erinnern Sie sich daran, dass wir oben **(2)** sagten, der Schatten habe gerade den Eckstein erreicht? Nun, wenn ich mich nicht irre, ist das auf dem linken Bild zwischen 15:30 und 16:00 Uhr. Erinnern Sie sich ausserdem daran, dass wir auf dem Bild sagten, der Schatten sei etwas länger als das _Rhinoceronte_ gross ist? Das sieht auf dem rechten Bild nach der gleichen Zeit aus. Ich bin mir also ziemlich sicher, dass die Zeit gegen 15:45 Uhr ist.
 
 # Chronologie
+*Hier arbeite ich zurzeit an der Rekonstruktion...*
 
 Mit dieser Begründung habe ich Filmmaterial aus verschiedenen Dokumentarfilmen auf YouTube extrahiert.
 
@@ -47,18 +48,13 @@ Mit dieser Begründung habe ich Filmmaterial aus verschiedenen Dokumentarfilmen 
 | ![attachments/11a/422_PMsubesombra.jpg](post/attachments/11a/422_PMsubesombra.jpg) | (Weitere Polizisten folgen auf Motorrädern und zu Fuß) (https://youtu.be/z4tJgboK3QQ?version=3&start=210&end=360&autoplay=1). Oben in Muñoz finden sie Tony Velasquez tot auf. *Winkel: Ungefähr 42,2º, oder 3:40-3:45 Uhr* |
 | ![attachments/11a/427_comingdown.png](post/attachments/11a/427_comingdown.png) | Dann gehen sie [wieder hinunter zur Pedrera](https://www.youtube.com/watch?v=Zcx5IGGTZFI). Der Schatten von "La Nacional" wird leider grösstenteils von Herrn Lameda und Polizeibeamten verdeckt, aber er reicht jetzt fast bis zum grünen Kasten auf der Pedrera. |
 | ![attachments/11a/425_MPshooting1.png](post/attachments/11a/425_MPshooting1.png) ![attachments/11a/425_MPshooting2.png](post/attachments/11a/425_MPshooting2.png) | Dann folgt [diese Szene](https://www.youtube.com/watch?v=QPMe92zH6Ik&version=3&start=1462&end=1500&autoplay=1), in der ein Polizist der Stadtpolizei in Richtung Norden schiesst und später die Verletzung von Magdalena Sauce. Es scheint, als ob eine Wolke die Sonne zuerst verdeckte und die Schatten zerstreute, daher bin ich mir nicht ganz sicher, wie lange diese Situation andauerte. Nach einem Schnitt sind die Schatten wieder klarer, aber wir sehen den grünen Kasten nicht mehr als Referenz. Trotzdem glaube ich, dass die Chronologie so am meisten Sinn macht: Die beiden Fahrzeuge waren noch nie in dieser Position, und kurz darauf (wie wir sehen werden) kamen die Leute von beiden Seiten viel näher an die Pedrera heran. |
-| ![attachments/11a/415_sombra_arellano_arrow.png](post/attachments/11a/415_sombra_arellano_arrow.png) ![attachments/11a/420_sombra_tortoza_arrow.png](post/attachments/11a/420_sombra_tortoza_arrow.png) ![attachments/11a/418_clash_sombra2-1.jpg](post/attachments/11a/418_clash_sombra2-1.jpg) | Der Moment in Brians 360-Grad-Aufnahme ereignete sich also erst nach all dem. Und das war wiederum kurz vor der Tötung von [Jesús Arellano](https://www.youtube.com/watch?v=7HCWszu0bA8) und der Tötung von [Jorge Tortoza und der Verletzung von Malvina Pesate](https://www.youtube.com/watch?v=xxNExfFEEyQ) auf der _Pedrera_. Auch hier kann man diese Reihenfolge anhand der Schatten feststellen, insbesondere in Bezug auf ein Stück Müll, das auf der Pedrera lag (roter Pfeil). 
-
-Francisco Olivares von _El Universal_ sagt, [dieses Video](https://www.youtube.com/watch?v=sIDv3AtesYg) identifiziere einen der Schützen. Wenn Sie eine Version in besserer Qualität haben, auf der die Waffe deutlicher zu erkennen ist, lassen Sie es mich bitte wissen!
-
-*Winkel: Ungefähr 41,5º, oder 4:45pm* |
+| ![attachments/11a/415_sombra_arellano_arrow.png](post/attachments/11a/415_sombra_arellano_arrow.png) ![attachments/11a/420_sombra_tortoza_arrow.png](post/attachments/11a/420_sombra_tortoza_arrow.png) ![attachments/11a/418_clash_sombra2-1.jpg](post/attachments/11a/418_clash_sombra2-1.jpg) | Der Moment in Brians 360-Grad-Aufnahme ereignete sich also erst nach all dem. Und das war wiederum kurz vor der Tötung von [Jesús Arellano](https://www.youtube.com/watch?v=7HCWszu0bA8) und der Tötung von [Jorge Tortoza und der Verletzung von Malvina Pesate](https://www.youtube.com/watch?v=xxNExfFEEyQ) auf der _Pedrera_. Auch hier kann man diese Reihenfolge anhand der Schatten feststellen, insbesondere in Bezug auf ein Stück Müll, das auf der Pedrera lag (roter Pfeil).  Francisco Olivares von _El Universal_ sagt, [dieses Video](https://www.youtube.com/watch?v=sIDv3AtesYg) identifiziere einen der Schützen. Wenn Sie eine Version in besserer Qualität haben, auf der die Waffe deutlicher zu erkennen ist, lassen Sie es mich bitte wissen! *Winkel: Ungefähr 41,5º, oder 4:45pm* |
 
 Von diesem Zeitpunkt an ist Brians [Chronologie](http://www.brianandrewnelson.com/Venezuela/Photographic_Chronology.html) zu Baralt meines Erachtens korrekt. Nach dem Tod von Jesús Arellano und Jorge Tortoza rückte die MP wieder vor. Sie wurden dann in ein Feuergefecht verwickelt, das hauptsächlich von Muñoz aus mit Bewaffneten geführt wurde, die sich unter und auf der Puente Llaguno inmitten den Chávez-Anhängern aufhielten.
 
 Es gibt Filmaufnahmen der Stadtpolizei [in Piñango.](https://www.youtube.com/watch?v=QPMe92zH6Ik&version=3&start=3474&end=3476&autoplay=1) Beachten Sie die ersten Bilder dieser Aufnahmen: Die MP ist zu sehen und in den Ecken des Bildes sieht man Menschen, die sich gegen das Geländer lehnen. Vielleicht war das, _bevor_ die Stadtpolizei anfing, auf Menschen _auf_ der Puente Llaguno zu schiessen?
 
-![](post/attachments/11a/227_pminpiñango2.png)
-
+![attachments/11a/227_pminpiñango2.png](post/attachments/11a/227_pminpiñango2.png)
 
 # Andere Beweise
 
