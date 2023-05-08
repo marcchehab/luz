@@ -26,13 +26,9 @@ Ich habe dieses Dreieck im 3D-Programm [Blender](http://www.blender.org/) hinzug
 
 Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir die Uhrzeit berechnen. Ich habe die Zeiten, zu denen diese Winkel gehören, [auf sunearthtools.com](http://www.sunearthtools.com/dp/tools/pos_sun.php?lang=es) aufgezeichnet und mit anderen derartigen Seiten abgeglichen (Anmwerkung im Jahr 2023: Heutzutage empfehle ich dafür [https://suncalc.org](post/https://suncalc.org)). Das Ergebnis: Auf diesem Bild ist es ungefähr 15:45 Uhr.
 
-![attachments/11a/11a_sol2.jpg](post/attachments/11a/11a_sol2.jpg)
+| ![attachments/11a/11a_sol2.jpg](post/attachments/11a/11a_sol2.jpg) | ![200](post/attachments/11a/shade2_annoted.png) | ![200](post/attachments/11a/shade.jpg) |
 
 Um diesen Befund weiter zu überprüfen, habe ich [SketchUp](http://www.sketchup.com/) heruntergeladen, das die Schattierung von Gebäuden in Bezug auf Ort und Datum simuliert, jedoch zusätzlich auch das _Gelände_ mit einbezieht. Ich habe Blöcke modelliert, die etwa so hoch sind wie das Gebäude "La Nacional", wie es auf Google Earth zu sehen ist (linkes Bild), und einen Block in Menschengrösse erstellt (rechtes Bild). Hier sind die Ergebnisse (und [die Datei](attachments/11a/lanacional.skp).)
-
-![200](post/attachments/11a/shade2_annoted.png)
-
-![200](post/attachments/11a/shade.jpg)
 
 Erinnern Sie sich daran, dass wir oben **(2)** sagten, der Schatten habe gerade den Eckstein erreicht? Nun, wenn ich mich nicht irre, ist das auf dem linken Bild zwischen 15:30 und 16:00 Uhr. Erinnern Sie sich ausserdem daran, dass wir auf dem Bild sagten, der Schatten sei etwas länger als das _Rhinoceronte_ gross ist? Das sieht auf dem rechten Bild nach der gleichen Zeit aus. Ich bin mir also ziemlich sicher, dass die Zeit gegen 15:45 Uhr ist.
 
