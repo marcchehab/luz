@@ -16,23 +16,23 @@ Es gibt also noch viele Zweifel an der Chronologie dieser tragischen Ereignisse.
 
 Man ist sich ziemlich einig, dass die ersten Teilnehmer des Oppositionsmarsches zwischen 13:30 und 14:00 Uhr das Viertel _El Silencio_ um den Präsidentenpalast erreichten. [In seiner Untersuchung](http://www.brianandrewnelson.com/Venezuela/Photographic_Chronology.html) bietet Brian Nelson eine illustrative 360°-Aufnahme der Situation in Baralt zwischen den Ecken Pedrera und Muñoz. Dies soll unser Bezugspunkt sein.
 
-![attachments/11a/nelson360.png]({{< ref "attachments/11a/nelson360.png" >}})
+![attachments/11a/nelson360.png]({{< ref "post/attachments/11a/nelson360.png" >}})
 
 Wenn Sie das untere Bild betrachten, sehen Sie, dass **(1)** der Schatten des Gebäudes "La Nacional" deutlich bis zum Eckstein auf der anderen Seite des Baralt reicht, und **(2)** der Schatten des gepanzerten Fahrzeugs der Stadtpolizei links (ein _rinoceronte_) mindestens so lang ist wie das Fahrzeug hoch ist. So kann man **den Sonnenstand messen.**
 
 Ich habe dieses Dreieck im 3D-Programm [Blender](http://www.blender.org/) hinzugefügt. Der Winkel der Sonne beträgt ungefähr 41,8º. Angesichts des Kamerawinkels und der unebenen Oberfläche ist das keine exakte Messung, aber besser als nichts. Es gibt auch andere Bezugspunkte, wie den Schatten von "La Nacional" **(2)** oben.
 
-![attachments/11a/418_clash_sombra2.jpg]({{< ref "attachments/11a/418_clash_sombra2.jpg" >}})
+![attachments/11a/418_clash_sombra2.jpg]({{< ref "post/attachments/11a/418_clash_sombra2.jpg" >}})
 
-Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir die Uhrzeit berechnen. Ich habe die Zeiten, zu denen diese Winkel gehören, [auf sunearthtools.com](http://www.sunearthtools.com/dp/tools/pos_sun.php?lang=es) aufgezeichnet und mit anderen derartigen Seiten abgeglichen (Anmwerkung im Jahr 2023: Heutzutage empfehle ich dafür [suncalc.org]({{< ref "suncalc.org" >}})). Das Ergebnis: Auf diesem Bild ist es ungefähr 15:45 Uhr.
+Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir die Uhrzeit berechnen. Ich habe die Zeiten, zu denen diese Winkel gehören, [auf sunearthtools.com](http://www.sunearthtools.com/dp/tools/pos_sun.php?lang=es) aufgezeichnet und mit anderen derartigen Seiten abgeglichen (Anmwerkung im Jahr 2023: Heutzutage empfehle ich dafür [suncalc.org]({{< ref "post/suncalc.org" >}})). Das Ergebnis: Auf diesem Bild ist es ungefähr 15:45 Uhr.
 
-![./attachments/11a/11a_sol2.jpg]({{< ref "./attachments/11a/11a_sol2.jpg" >}})
+![./attachments/11a/11a_sol2.jpg]({{< ref "post/./attachments/11a/11a_sol2.jpg" >}})
 
 Um diesen Befund weiter zu überprüfen, habe ich [SketchUp](http://www.sketchup.com/) heruntergeladen, das die Schattierung von Gebäuden in Bezug auf Ort und Datum simuliert, jedoch zusätzlich auch das _Gelände_ mit einbezieht. Ich habe Blöcke modelliert, die etwa so hoch sind wie das Gebäude "La Nacional", wie es auf Google Earth zu sehen ist (linkes Bild), und einen Block in Menschengrösse erstellt (rechtes Bild). Hier sind die Ergebnisse (und [lanacional](attachments/11a/lanacional.skp) die Datei.)
 
-![attachments/11a/shade2_annoted.png]({{< ref "attachments/11a/shade2_annoted.png" >}})
+![attachments/11a/shade2_annoted.png]({{< ref "post/attachments/11a/shade2_annoted.png" >}})
 
-![attachments/11a/shade.jpg]({{< ref "attachments/11a/shade.jpg" >}})
+![attachments/11a/shade.jpg]({{< ref "post/attachments/11a/shade.jpg" >}})
 Erinnern Sie sich daran, dass wir oben **(2)** sagten, der Schatten habe gerade den Eckstein erreicht? Nun, wenn ich mich nicht irre, ist das auf dem linken Bild zwischen 15:30 und 16:00 Uhr. Erinnern Sie sich ausserdem daran, dass wir auf dem Bild sagten, der Schatten sei etwas länger als das _Rhinoceronte_ gross ist? Das sieht auf dem rechten Bild nach der gleichen Zeit aus. Ich bin mir also ziemlich sicher, dass die Zeit gegen 15:45 Uhr ist.
 
 # Chronologie
@@ -41,7 +41,7 @@ Mit dieser Begründung habe ich Filmmaterial aus verschiedenen Dokumentarfilmen 
 
 | **Aus Videos extrahierte und analysierte Frames.** | **Beschreibung und Video-Links.** |
 |---|----|
-| ![attachments/11a/520_muñoz_cordonblender.jpg]({{< ref "attachments/11a/520_muñoz_cordonblender.jpg" >}}) | Bevor die Konfrontation mit Brian beginnt, [blockiert](https://web.archive.org/web/20171004153838/https://www.youtube.com/watch?v=QPMe92zH6Ik&version=3&start=1391&end=1395&autoplay=1) die Stadtpolizei den Marsch der Opposition zwischen _La Gorda_ und _Pedrera_ (der Winkel beträgt etwa 51°, also kurz nach 15 Uhr), aber... |
+| ![attachments/11a/520_muñoz_cordonblender.jpg]({{< ref "post/attachments/11a/520_muñoz_cordonblender.jpg" >}}) | Bevor die Konfrontation mit Brian beginnt, [blockiert](https://web.archive.org/web/20171004153838/https://www.youtube.com/watch?v=QPMe92zH6Ik&version=3&start=1391&end=1395&autoplay=1) die Stadtpolizei den Marsch der Opposition zwischen _La Gorda_ und _Pedrera_ (der Winkel beträgt etwa 51°, also kurz nach 15 Uhr), aber... |
 
 
 [![](https://web.archive.org/web/20171004153838im_/https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/507_rctv.png?resize=300%2C226)](https://web.archive.org/web/20171004153838/https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/507_rctv.png) [![](https://web.archive.org/web/20171004153838im_/https://i2.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/507_rctv2.png?resize=300%2C194)](https://web.archive.org/web/20171004153838/https://i2.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/507_rctv2.png)
