@@ -26,6 +26,7 @@ Ich habe dieses Dreieck im 3D-Programm [Blender](http://www.blender.org/) hinzug
 
 Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir die Uhrzeit berechnen. Ich habe die Zeiten, zu denen diese Winkel gehören, [auf sunearthtools.com](http://www.sunearthtools.com/dp/tools/pos_sun.php?lang=es) aufgezeichnet und mit anderen derartigen Seiten abgeglichen (Anmwerkung im Jahr 2023: Heutzutage empfehle ich dafür [https://suncalc.org](post/https://suncalc.org)). Das Ergebnis: Auf diesem Bild ist es ungefähr 15:45 Uhr.
 
+| Suncalc | Sketchup 1 | Sketchup 2 |
 |---|----|---|
 | ![attachments/11a/11a_sol2.jpg](post/attachments/11a/11a_sol2.jpg) | ![200](post/attachments/11a/shade2_annoted.png) | ![200](post/attachments/11a/shade.jpg) |
 
