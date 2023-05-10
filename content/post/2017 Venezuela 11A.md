@@ -28,7 +28,7 @@ Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir 
 
 | Suncalc | Sketchup 1 | Sketchup 2 |
 |---|----|---|
-| ![attachments/11a/11a_sol2.jpg](post/attachments/11a/11a_sol2.jpg) | ![200](post/attachments/11a/shade2_annoted.png) | ![200](post/attachments/11a/shade.jpg) |
+| ![attachments/11a/11a_sol2.jpg](post/attachments/11a/11a_sol2.jpg) | ![attachments/11a/shade2_annoted.png](post/attachments/11a/shade2_annoted.png) | ![attachments/11a/shade.jpg](post/attachments/11a/shade.jpg) |
 
 Um diesen Befund weiter zu überprüfen, habe ich [SketchUp](http://www.sketchup.com/) heruntergeladen, das die Schattierung von Gebäuden in Bezug auf Ort und Datum simuliert, jedoch zusätzlich auch das _Gelände_ mit einbezieht. Ich habe Blöcke modelliert, die etwa so hoch sind wie das Gebäude "La Nacional", wie es auf Google Earth zu sehen ist (linkes Bild), und einen Block in Menschengrösse erstellt (rechtes Bild). Hier sind die Ergebnisse (und [die Datei](attachments/11a/lanacional.skp).)
 
