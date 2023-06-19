@@ -3,7 +3,7 @@ title: Die heile Schweiz der SVP liegt in Russland
 description: Eine kleine Geolocation-Übung - wo sind die Fotos im SVP-Parteiprogramm her?
 slug: heile-svp-welt-in-russland
 date: 2023-06-19
-image: post/attachments/svp1.png
+image: post/attachments/svpteaser.png
 tags:
      - OSINT
      - Schweiz
