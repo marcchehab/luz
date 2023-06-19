@@ -24,7 +24,7 @@ Mit dem einzelnen Foto ist das fast unmöglich. Ich hab einzig bemerkt, dass die
 Glücklicherweise ist das Foto ja Teil einer Serie - und professionelle Fotografen gehen ja selten nur einmal an einen so schönen Ort. Also habe ich Evgenys Fotos durchgeschaut und dieses hier auf Shutterstock gefunden.
 ![attachments/Pasted image 20230619091152.png](post/attachments/Pasted image 20230619091152.png)
 
-Im Hintergrund: Eine Meerenge und ein Frachschiff!
+Im Hintergrund: Eine Meerenge und ein Frachschiff! 
 
 Überlegen wir uns noch kurz den Sonnenstand: Ich nehme an es ist Sommer und eher Sonnenuntergang, also dass die Sonne ungefähr im Westen steht. Folglich liegt das Meer im Südwesten.
 
@@ -41,4 +41,3 @@ Dann habe ich Details verglichen: Genauer Verlauf der Meerenge, Topografie, Orts
 Einziges Detail das nicht stimmte: Es schaut nicht nach einem Kornfeld aus. Aber vielleicht war es ja eines, als das Foto gemacht wurde? Bei Google Earth kann man, wie gesagt, frühere Satellitenbilder anschauen. Und: Bingo!
 
 ![attachments/Pasted image 20230619093215.png](post/attachments/Pasted image 20230619093215.png)
-
