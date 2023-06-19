@@ -3,7 +3,7 @@ title: Die heile Schweiz der SVP liegt in Russland
 description: Eine kleine Geolocation-Übung - wo sind die Fotos im SVP-Parteiprogramm her?
 slug: heile-svp-welt-in-russland
 date: 2023-06-19
-image: post/attachments/Pasted image 20230619083550.png
+image: post/attachments/svp1.png
 tags:
      - OSINT
      - Schweiz
@@ -22,22 +22,22 @@ Ich habe Atamanenko angeschrieben, aber er hat mir nicht geantwortet. Um sicher 
 Mit dem einzelnen Foto ist das fast unmöglich. Ich hab einzig bemerkt, dass die Gegend direkt bei Krosnodar recht flach ist. Hügel gibts eher südlich der Stadt.
 
 Glücklicherweise ist das Foto ja Teil einer Serie - und professionelle Fotografen gehen ja selten nur einmal an einen so schönen Ort. Also habe ich Evgenys Fotos durchgeschaut und dieses hier auf Shutterstock gefunden.
-![attachments/Pasted image 20230619091152.png](post/attachments/Pasted image 20230619091152.png)
+![attachments/svp2.png](post/attachments/svp2.png)
 
-Im Hintergrund: Eine Meerenge und ein Frachschiff! 
+Im Hintergrund: Eine Meerenge und ein Frachschiff!
 
 Überlegen wir uns noch kurz den Sonnenstand: Ich nehme an es ist Sommer und eher Sonnenuntergang, also dass die Sonne ungefähr im Westen steht. Folglich liegt das Meer im Südwesten.
 
 Also: Südlich von Krosnodar hats Hügel, das Schwarze Meer - und eine Meerenge bei Novorossiysk.
 
-![attachments/Pasted image 20230619092127.png](post/attachments/Pasted image 20230619092127.png)
+![attachments/svp3.png](post/attachments/svp3.png)
 
 Weil Google Earth auch historische Satellitenbilder hat, habe ich dorthin gewechselt und eine Stelle gesucht, die mit der Meerenge die gleiche Perspektive erzeugt.
 
-![attachments/Pasted image 20230619092714.png](post/attachments/Pasted image 20230619092714.png)
+![attachments/svp4.png](post/attachments/svp4.png)
 
 Dann habe ich Details verglichen: Genauer Verlauf der Meerenge, Topografie, Ortschaften,  Kontur der Wälder, etc.
 
 Einziges Detail das nicht stimmte: Es schaut nicht nach einem Kornfeld aus. Aber vielleicht war es ja eines, als das Foto gemacht wurde? Bei Google Earth kann man, wie gesagt, frühere Satellitenbilder anschauen. Und: Bingo!
 
-![attachments/Pasted image 20230619093215.png](post/attachments/Pasted image 20230619093215.png)
+![attachments/svp5.png](post/attachments/svp5.png)
