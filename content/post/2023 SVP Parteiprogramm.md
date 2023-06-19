@@ -11,7 +11,7 @@ tags:
 
 Die Fotos im SVP-Parteiprogramm zeigen die schönen Seiten der Schweiz - und davon gibt es bekanntlich viele. Doch als ich sie genauer angeschaut habe, dachte ich mir: "Moment, solch flache Grashügeln... Ist das überhaupt die Schweiz?" Gehen wir dem mal kurz nach.
 
-![attachments/Pasted image 20230619083550.png](post/attachments/Pasted image 20230619083550.png)
+![../../LUZ website/content/post/attachments/svp1.png](post/../../LUZ website/content/post/attachments/svp1.png)
 
 Zunächst habe ich das Foto einfach bei Google mit der Bildersuche gesucht. Das zeigt schnell, dass das Foto ein kaufbares Stockfoto ist, das von vielen Webseiten verwendet wird. Netterweise gibt das die SVP auch so beim Bildnachweis an.
 
