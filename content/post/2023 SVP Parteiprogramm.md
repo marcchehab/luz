@@ -13,18 +13,31 @@ Die Fotos im SVP-Parteiprogramm zeigen die schönen Seiten der Schweiz - und dav
 
 ![attachments/svp1.png](post/attachments/svp1.png)
 
-Zunächst habe ich das Foto einfach bei Google mit der Bildersuche gesucht. Das zeigt schnell, dass das Foto ein kaufbares Stockfoto ist, das von vielen Webseiten verwendet wird. Netterweise gibt das die SVP auch so beim Bildnachweis an.
+# Als Erstes: Bildersuche
 
-So findet man schnell auch recht schnell das [Originalfoto bei iStock](https://www.istockphoto.com/de/foto/mutter-vater-sohn-und-tochter-bei-sonnenuntergang-gm1159094800-316832689?phrase=happy+family%3A+mother%2C+father%2C+children+son+and+daughter+running+and+jumping+on+nature+on+sunset ) und somit den Namen des Fotografen: Evgeny Atamanenko. Er hat auch einen Instagram-Account, wo er [ein Foto aus derselben Serie](https://www.instagram.com/p/BlA3ZRrA5WZ/?hl=en) gepostet hat mit der Verortung "Krosnodar". Wo ist das? In Russland, weniger als 200km von der Krimbrücke entfernt.
+Zunächst habe ich das Foto einfach bei Google mit der Bildersuche gesucht. Dafür einfach rechts auf die Kamera klicken.
+
+![attachments/svp6.png](post/attachments/svp6.png)
+
+Das zeigt schnell, dass das Foto ein kaufbares Stockfoto ist, das auf vielen Webseiten verwendet wird. Netterweise gibt das die SVP auch so im Bildnachweis an. 
+
+Mit der Bildersuche findet man zudem das [Originalfoto bei iStock](https://www.istockphoto.com/de/foto/mutter-vater-sohn-und-tochter-bei-sonnenuntergang-gm1159094800-316832689?phrase=happy+family%3A+mother%2C+father%2C+children+son+and+daughter+running+and+jumping+on+nature+on+sunset ) und somit den Namen des Fotografen: **Evgeny Atamanenko**. 
+
+# Erste Hinweise auf den Ort
+
+Evgeny hat auch einen Instagram-Account, wo er [ein Foto aus derselben Serie](https://www.instagram.com/p/BlA3ZRrA5WZ/?hl=en) gepostet hat mit der Verortung "**Krosnodar**". Wo ist das? In Russland, weniger als 200km von der Krimbrücke entfernt.
 
 Ich habe Atamanenko angeschrieben, aber er hat mir nicht geantwortet. Um sicher zu gehen, habe ich mich also dran gemacht, den genauen Hügel des Fotos zu finden...
 
-Mit dem einzelnen Foto ist das fast unmöglich. Ich hab einzig bemerkt, dass die Gegend direkt bei Krosnodar recht flach ist. Hügel gibts eher südlich der Stadt.
+# Genaue Verortung von Hand
 
-Glücklicherweise ist das Foto ja Teil einer Serie - und professionelle Fotografen gehen ja selten nur einmal an einen so schönen Ort. Also habe ich Evgenys Fotos durchgeschaut und dieses hier auf Shutterstock gefunden.
+Mit dem einzelnen Foto ist das fast unmöglich. Ich hab einzig bemerkt, dass die Gegend direkt bei Krosnodar recht flach ist. Hügel gibt's nur circa 50 Kilometer südlich der Stadt.
+
+Glücklicherweise ist das Foto ja Teil einer Serie - und professionelle Fotografen gehen selten nur einmal an einen so schönen Ort. Also habe ich Evgenys Fotos durchgeschaut und dieses hier auf Shutterstock gefunden.
+
 ![attachments/svp2.png](post/attachments/svp2.png)
 
-Im Hintergrund: Eine Meerenge und ein Frachschiff!
+Klar der gleiche Ort - und im Hintergrund: Eine Meerenge und ein Frachschiff!
 
 Überlegen wir uns noch kurz den Sonnenstand: Ich nehme an es ist Sommer und eher Sonnenuntergang, also dass die Sonne ungefähr im Westen steht. Folglich liegt das Meer im Südwesten.
 
@@ -36,8 +49,14 @@ Weil Google Earth auch historische Satellitenbilder hat, habe ich dorthin gewech
 
 ![attachments/svp4.png](post/attachments/svp4.png)
 
-Dann habe ich Details verglichen: Genauer Verlauf der Meerenge, Topografie, Ortschaften,  Kontur der Wälder, etc.
+Dann habe ich Details verglichen: Genauer Verlauf der Meerenge, Topografie, Ortschaften,  Kontur der Wälder, etc. Alles stimmte...
 
-Einziges Detail das nicht stimmte: Es schaut nicht nach einem Kornfeld aus. Aber vielleicht war es ja eines, als das Foto gemacht wurde? Bei Google Earth kann man, wie gesagt, frühere Satellitenbilder anschauen. Und: Bingo!
+...bis auf ein Detail: Es schaute nicht nach einem Kornfeld aus. 
+
+Aber vielleicht war es ja ein Kornfeld, als das Foto vor einigen Jahren gemacht wurde? Bei Google Earth kann man, wie gesagt, frühere Satellitenbilder anschauen. Und: Bingo!
 
 ![attachments/svp5.png](post/attachments/svp5.png)
+
+So haben wir also auf wenige Meter genau den Ort des Fotos ermitteln können. Falls Du solche Detektivarbeit magst, kannst Du gern mal an einen [Kurs oder Vortrag](post/../page/kurse/index) kommen! 
+
+Es schöns Tägli! 😊
