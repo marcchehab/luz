@@ -1,3 +1,1 @@
-import obsidian_to_hugo
-
-obsidian_to_hugo
+python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\marcc\OneDrive\1 LUZ\LUZ-content" --hugo-content-dir="C:\Users\marcc\OneDrive\1 LUZ\LUZ website\content"
