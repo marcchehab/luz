@@ -162,9 +162,14 @@ h5 { filter: hue-rotate(160deg); }
 strong,
 h6 { filter: hue-rotate(200deg); } 
 
-.tagCloud .tagCloud-tags a {
+.tagCloud .tagCloud-tags a,
+.article-tags a {
     font-weight:bolder;
     color: var(--body-background);
+    opacity: 0.5;
+    &:hover {
+        opacity: 1;
+    }
 }
 a[href="/tags/osint/"] { background-color: hsl(127, 100%, 70%) !important; }
 a[href="/tags/schweiz/"] { background-color: hsl(0, 100%, 70%) !important; }
