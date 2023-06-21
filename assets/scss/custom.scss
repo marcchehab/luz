@@ -162,6 +162,13 @@ h5 { filter: hue-rotate(160deg); }
 strong,
 h6 { filter: hue-rotate(200deg); } 
 
-.tagCloud-tags a[href="/tags/osint/"] {
-    background-color: red;
+.tagCloud .tagCloud-tags a {
+    font-weight:bolder;
+    color: var(--body-background);
 }
+a[href="/tags/osint/"] { background-color: hsl(127, 100%, 70%) !important; }
+a[href="/tags/schweiz/"] { background-color: hsl(0, 100%, 70%) !important; }
+a[href="/tags/china/"] { background-color: hsl(21, 100%, 70%) !important; }
+a[href="/tags/grossbritannien/"] { background-color: hsl(204, 100%, 70%) !important; }
+a[href="/tags/usa/"] { background-color: hsl(229, 100%, 70%) !important; }
+a[href="/tags/venezuela/"] { background-color: hsl(249, 100%, 70%) !important; }
