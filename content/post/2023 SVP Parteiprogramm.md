@@ -13,7 +13,7 @@ Die Fotos im SVP-Parteiprogramm zeigen die schönen Seiten der Schweiz - und dav
 
 ![attachments/svp1.png](post/attachments/svp1.png)
 
-# Als Erstes: Bildersuche
+## Als Erstes: Bildersuche
 
 Zunächst habe ich das Foto einfach bei Google mit der Bildersuche gesucht. Dafür einfach rechts auf die Kamera klicken.
 
@@ -23,13 +23,13 @@ Das zeigt schnell, dass das Foto ein kaufbares Stockfoto ist, das auf vielen Web
 
 Mit der Bildersuche findet man zudem das [Originalfoto bei iStock](https://www.istockphoto.com/de/foto/mutter-vater-sohn-und-tochter-bei-sonnenuntergang-gm1159094800-316832689?phrase=happy+family%3A+mother%2C+father%2C+children+son+and+daughter+running+and+jumping+on+nature+on+sunset ) und somit den Namen des Fotografen: **Evgeny Atamanenko**. 
 
-# Erste Hinweise auf den Ort
+## Erste Hinweise auf den Ort
 
 Evgeny hat auch einen Instagram-Account, wo er [ein Foto aus derselben Serie](https://www.instagram.com/p/BlA3ZRrA5WZ/?hl=en) gepostet hat mit der Verortung "**Krosnodar**". Wo ist das? In Russland, weniger als 200km von der Krimbrücke entfernt.
 
 Ich habe Atamanenko angeschrieben, aber er hat mir nicht geantwortet. Um sicher zu gehen, habe ich mich also dran gemacht, den genauen Hügel des Fotos zu finden...
 
-# Genaue Verortung von Hand
+## Genaue Verortung von Hand
 
 Mit dem einzelnen Foto ist das fast unmöglich. Ich hab einzig bemerkt, dass die Gegend direkt bei Krosnodar recht flach ist. Hügel gibt's nur circa 50 Kilometer südlich der Stadt.
 
