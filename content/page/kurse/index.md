@@ -17,4 +17,4 @@ Bei LUZ wird das Handwerk der Wahrheitssuche zelebriert – und das kann man ler
 * Am **26. Oktober und 2. November an der UZH für die VHSZH**, jeweils von 19:30 bis 21:00. Link folgt.
 * Am **13. November 2023 an der VHS Bülach**. Link folgt.
 
-Falls Sie das Thema interessiert und Sie einen Abend organisieren, können Sie mich gern kontaktieren auf marcswegwerfemail@pm.me .
+Falls Sie das Thema interessiert und Sie einen Abend organisieren, können Sie mich gern kontaktieren auf marcswegwerfemail@pm.me.
