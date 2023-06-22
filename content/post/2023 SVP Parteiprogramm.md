@@ -57,6 +57,6 @@ Aber vielleicht war es ja ein Kornfeld, als das Foto vor einigen Jahren gemacht 
 
 ![attachments/svp5.png](post/attachments/svp5.png)
 
-So haben wir also auf wenige Meter genau den Ort des Fotos ermitteln können. Falls Du solche Detektivarbeit magst, kannst Du gern mal an einen [Kurs oder Vortrag](post/../page/kurse/index) kommen! 
+So haben wir also auf wenige Meter genau den Ort des Fotos ermitteln können. Falls Du solche Detektivarbeit magst, kannst Du gern mal an einen [Kurs oder Vortrag](post//page/kurse/index) kommen! 
 
 Es schöns Tägli! 😊
