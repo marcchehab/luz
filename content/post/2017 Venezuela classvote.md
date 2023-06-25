@@ -1,6 +1,6 @@
 ---
-title: Chronologie eines Massakers
-description: Am 11. April 2002 starben in Venezuela über ein Dutzend Menschen bei Demonstrationen gegen Präsident Hugo Chávez. Die Propaganda des Regimes hat die Ereignisse dieses folgenreichen Tages weitgehend als Fiktion rekonstruiert - doch was ist tatsächlich geschehen?
+title: "Die Armen" stimmten für Chávez – stimmt das?
+description: Eine Datenanalyse zum herbeigeredeten Klassenkampf in Venezuela.
 slug: venezuela-11-april-2002
 date: 2017-04-26
 image: post/attachments/Pasted image 20230508154242.png
