@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Venezuela on LUZ - Logik unserer Zeit</title><link>https://www.logikunsererzeit.ch/tags/venezuela/</link><description>Recent content in Venezuela on LUZ - Logik unserer Zeit</description><generator>Hugo -- gohugo.io</generator><language>de-ch</language><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.logikunsererzeit.ch/tags/venezuela/index.xml" rel="self" type="application/rss+xml"/><item><title>Chronologie eines Massakers</title><link>https://www.logikunsererzeit.ch/p/venezuela-11-april-2002/</link><pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate><guid>https://www.logikunsererzeit.ch/p/venezuela-11-april-2002/</guid><description>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/Pasted%20image%2020230508154242.png" alt="Featured image of post Chronologie eines Massakers" />&lt;p>Am 11. April 2002 endete ein friedlicher Protest von rund 1 Million Menschen gegen die damals unpopuläre Regierung von Hugo Chávez mit dem gewaltsamen Tod von 19 Menschen. Bis heute hat das Regime jegliche unabhängige gerichtliche Untersuchung verhindert und dringend benötigte Beweise vernichtet.&lt;/p>
+&lt;p>Es gibt also noch viele Zweifel an der Chronologie dieser tragischen Ereignisse. Für den Dokumentarfilm &lt;em>Venezuela im Kontext&lt;/em> habe ich die Ereignisse mit dem verfügbaren Informationen und Bildmaterialien aufgearbeitet. Dies sind meine Ergebnisse zum Zeitablauf der tödlichen Phase des Protests.&lt;/p>
+&lt;h1 id="sonnenwinkel-und-uhrzeit">Sonnenwinkel und Uhrzeit&lt;/h1>
+&lt;p>Man ist sich ziemlich einig, dass die ersten Teilnehmer des Oppositionsmarsches zwischen 13:30 und 14:00 Uhr das Viertel &lt;em>El Silencio&lt;/em> um den Präsidentenpalast erreichten. &lt;a class="link" href="http://www.brianandrewnelson.com/Venezuela/Photographic_Chronology.html" target="_blank" rel="noopener"
+>In seiner Untersuchung&lt;/a> bietet Brian Nelson eine illustrative 360°-Aufnahme der Situation in Baralt zwischen den Ecken Pedrera und Muñoz. Dies soll unser Bezugspunkt sein.&lt;/p>
+&lt;p>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/nelson360.png"
+loading="lazy"
+alt="attachments/11a/nelson360.png"
+>&lt;/p>
+&lt;p>Wenn Sie das untere Bild betrachten, sehen Sie, dass &lt;strong>(1)&lt;/strong> der Schatten des Gebäudes &amp;ldquo;La Nacional&amp;rdquo; deutlich bis zum Eckstein auf der anderen Seite des Baralt reicht, und &lt;strong>(2)&lt;/strong> der Schatten des gepanzerten Fahrzeugs der Stadtpolizei links (ein &lt;em>rinoceronte&lt;/em>) mindestens so lang ist wie das Fahrzeug hoch ist. So kann man &lt;strong>den Sonnenstand messen.&lt;/strong>&lt;/p>
+&lt;p>Ich habe dieses Dreieck im 3D-Programm &lt;a class="link" href="http://www.blender.org/" target="_blank" rel="noopener"
+>Blender&lt;/a> hinzugefügt. Der Winkel der Sonne beträgt ungefähr 41,8º. Angesichts des Kamerawinkels und der unebenen Oberfläche ist das keine exakte Messung, aber besser als nichts. Es gibt auch andere Bezugspunkte, wie den Schatten von &amp;ldquo;La Nacional&amp;rdquo; &lt;strong>(2)&lt;/strong> oben.&lt;/p>
+&lt;p>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/418_clash_sombra2.jpg"
+loading="lazy"
+alt="attachments/11a/418_clash_sombra2.jpg"
+>&lt;/p>
+&lt;p>Da wir den Sonnenwinkel, den genauen Standort und das Datum kennen, können wir die Uhrzeit berechnen. Ich habe die Zeiten, zu denen diese Winkel gehören, &lt;a class="link" href="http://www.sunearthtools.com/dp/tools/pos_sun.php?lang=es" target="_blank" rel="noopener"
+>auf sunearthtools.com&lt;/a> aufgezeichnet und mit anderen derartigen Seiten abgeglichen (Anmwerkung im Jahr 2023: Heutzutage empfehle ich dafür &lt;a class="link" href="post/https://suncalc.org" >https://suncalc.org&lt;/a>). Das Ergebnis: Auf diesem Bild ist es ungefähr 15:45 Uhr.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Suncalc&lt;/th>
+&lt;th>Sketchup 1&lt;/th>
+&lt;th>Sketchup 2&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/11a_sol2.jpg"
+loading="lazy"
+alt="attachments/11a/11a_sol2.jpg"
+>&lt;/td>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/shade2_annoted.png"
+loading="lazy"
+alt="attachments/11a/shade2_annoted.png"
+>&lt;/td>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/shade.jpg"
+loading="lazy"
+alt="attachments/11a/shade.jpg"
+>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Um diesen Befund weiter zu überprüfen, habe ich &lt;a class="link" href="http://www.sketchup.com/" target="_blank" rel="noopener"
+>SketchUp&lt;/a> heruntergeladen, das die Schattierung von Gebäuden in Bezug auf Ort und Datum simuliert, jedoch zusätzlich auch das &lt;em>Gelände&lt;/em> mit einbezieht. Ich habe Blöcke modelliert, die etwa so hoch sind wie das Gebäude &amp;ldquo;La Nacional&amp;rdquo;, wie es auf Google Earth zu sehen ist (linkes Bild), und einen Block in Menschengrösse erstellt (rechtes Bild). Hier sind die Ergebnisse (und &lt;a class="link" href="attachments/11a/lanacional.skp" >die Datei&lt;/a>.)&lt;/p>
+&lt;p>Erinnern Sie sich daran, dass wir oben &lt;strong>(2)&lt;/strong> sagten, der Schatten habe gerade den Eckstein erreicht? Nun, wenn ich mich nicht irre, ist das auf dem linken Bild zwischen 15:30 und 16:00 Uhr. Erinnern Sie sich ausserdem daran, dass wir auf dem Bild sagten, der Schatten sei etwas länger als das &lt;em>Rhinoceronte&lt;/em> gross ist? Das sieht auf dem rechten Bild nach der gleichen Zeit aus. Ich bin mir also ziemlich sicher, dass die Zeit gegen 15:45 Uhr ist.&lt;/p>
+&lt;h1 id="chronologie">Chronologie&lt;/h1>
+&lt;p>Mit dieser Begründung habe ich Filmmaterial aus verschiedenen Dokumentarfilmen auf YouTube extrahiert.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;strong>Aus Videos extrahierte und analysierte Frames.&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Beschreibung und Video-Links.&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/520_mu%c3%b1oz_cordonblender.jpg"
+loading="lazy"
+alt="attachments/11a/520_muñoz_cordonblender.jpg"
+>&lt;/td>
+&lt;td>Bevor die Konfrontation mit Brian beginnt, &lt;a class="link" href="https://www.youtube.com/watch?v=QPMe92zH6Ik&amp;amp;version=3&amp;amp;start=1391&amp;amp;end=1395&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>blockiert&lt;/a> die Stadtpolizei den Marsch der Opposition zwischen &lt;em>La Gorda&lt;/em> und &lt;em>Pedrera&lt;/em> (der Winkel beträgt etwa 51°, also kurz nach 15 Uhr), aber&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/507_rctv.png"
+loading="lazy"
+alt="attachments/11a/507_rctv.png"
+>&lt;/td>
+&lt;td>…auf &lt;a class="link" href="https://youtu.be/vm2bemNNIjo?version=3&amp;amp;start=1066&amp;amp;end=1070&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>die Stadtpolizei wurde geschossen&lt;/a> (circa gleicher Sonnenwinkel). Im Video sieht man, dass der Schatten von &amp;ldquo;La Nacional&amp;rdquo; gerade so den Randstein erreicht. Das passierte also sicher &lt;em>vor&lt;/em> der 360°-Aufnahme.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/446_mu%c3%b1oz_retirablender.jpg"
+loading="lazy"
+alt="attachments/11a/446_muñoz_retirablender.jpg"
+> &lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/508_mu%c3%b1ozdispar.png"
+loading="lazy"
+alt="attachments/11a/508_muñozdispar.png"
+>&lt;/td>
+&lt;td>Als Reaktion darauf verfolgte &lt;a class="link" href="https://www.youtube.com/watch?v=QPMe92zH6Ik&amp;amp;version=3&amp;amp;start=1272&amp;amp;end=1290&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>die Stadtpolizei die Chávez-Anhänger&lt;/a> (durchsetzt mit Bewaffneten) bis zu nächsten Kreuzung (Muñoz) mit den beiden gepanzerten Fahrzeugen, die Brian später auf dem Bild zeigt. Auch hier berührt der Schatten von &amp;ldquo;La Nacional&amp;rdquo; gerade noch den Eckpfeiler. Die Stadtpolizei scheint hier nicht zu schiessen. Ein wichtiges Detail: Sie &lt;em>fahren direkt auf Muñoz zu&lt;/em> und positionieren sich in der Pedrera, wie später zu sehen ist. &lt;em>Der Winkel? Ungefähr 44,6º, oder 3:25 Uhr.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/422_PMsubesombra.jpg"
+loading="lazy"
+alt="attachments/11a/422_PMsubesombra.jpg"
+>&lt;/td>
+&lt;td>(Weitere Polizisten folgen auf Motorrädern und zu Fuss)(&lt;a class="link" href="https://youtu.be/z4tJgboK3QQ?version=3&amp;amp;start=210&amp;amp;end=360&amp;amp;autoplay=1%29" target="_blank" rel="noopener"
+>https://youtu.be/z4tJgboK3QQ?version=3&amp;start=210&amp;end=360&amp;autoplay=1)&lt;/a>. Oben in Muñoz finden sie Tony Velasquez tot auf. &lt;em>Winkel: Ungefähr 42,2º, oder 3:40-3:45 Uhr&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/427_comingdown.png"
+loading="lazy"
+alt="attachments/11a/427_comingdown.png"
+>&lt;/td>
+&lt;td>Dann gehen sie &lt;a class="link" href="https://www.youtube.com/watch?v=Zcx5IGGTZFI" target="_blank" rel="noopener"
+>wieder hinunter zur Pedrera&lt;/a>. Der Schatten von &amp;ldquo;La Nacional&amp;rdquo; wird leider grösstenteils von Herrn Lameda und Polizeibeamten verdeckt, aber er reicht jetzt fast bis zum grünen Kasten auf der Pedrera.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/425_MPshooting1.png"
+loading="lazy"
+alt="attachments/11a/425_MPshooting1.png"
+> &lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/425_MPshooting2.png"
+loading="lazy"
+alt="attachments/11a/425_MPshooting2.png"
+>&lt;/td>
+&lt;td>Dann folgt &lt;a class="link" href="https://www.youtube.com/watch?v=QPMe92zH6Ik&amp;amp;version=3&amp;amp;start=1462&amp;amp;end=1500&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>diese Szene&lt;/a>, in der ein Polizist der Stadtpolizei in Richtung Norden schiesst und später die Verletzung von Magdalena Sauce. Es scheint, als ob eine Wolke die Sonne zuerst verdeckte und die Schatten zerstreute, daher bin ich mir nicht ganz sicher, wie lange diese Situation andauerte. Nach einem Schnitt sind die Schatten wieder klarer, aber wir sehen den grünen Kasten nicht mehr als Referenz. Trotzdem glaube ich, dass die Chronologie so am meisten Sinn macht: Die beiden Fahrzeuge waren noch nie in dieser Position, und kurz darauf (wie wir sehen werden) kamen die Leute von beiden Seiten viel näher an die Pedrera heran.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/415_sombra_arellano_arrow.png"
+loading="lazy"
+alt="attachments/11a/415_sombra_arellano_arrow.png"
+> &lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/420_sombra_tortoza_arrow.png"
+loading="lazy"
+alt="attachments/11a/420_sombra_tortoza_arrow.png"
+> &lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/418_clash_sombra2.jpg"
+loading="lazy"
+alt="attachments/11a/418_clash_sombra2.jpg"
+>&lt;/td>
+&lt;td>Der Moment in Brians 360-Grad-Aufnahme ereignete sich also erst nach all dem. Und das war wiederum kurz vor der Tötung von &lt;a class="link" href="https://www.youtube.com/watch?v=7HCWszu0bA8" target="_blank" rel="noopener"
+>Jesús Arellano&lt;/a> und der Tötung von &lt;a class="link" href="https://www.youtube.com/watch?v=xxNExfFEEyQ" target="_blank" rel="noopener"
+>Jorge Tortoza und der Verletzung von Malvina Pesate&lt;/a> auf der &lt;em>Pedrera&lt;/em>. Auch hier kann man diese Reihenfolge anhand der Schatten feststellen, insbesondere in Bezug auf ein Stück Müll, das auf der Pedrera lag (roter Pfeil). Francisco Olivares von &lt;em>El Universal&lt;/em> sagt, &lt;a class="link" href="https://www.youtube.com/watch?v=sIDv3AtesYg" target="_blank" rel="noopener"
+>dieses Video&lt;/a> identifiziere einen der Schützen. Wenn Sie eine Version in besserer Qualität haben, auf der die Waffe deutlicher zu erkennen ist, lassen Sie es mich bitte wissen! &lt;em>Winkel: Ungefähr 41,5º, oder 4:45pm&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Von diesem Zeitpunkt an ist Brians &lt;a class="link" href="http://www.brianandrewnelson.com/Venezuela/Photographic_Chronology.html" target="_blank" rel="noopener"
+>Chronologie&lt;/a> zu Baralt meines Erachtens korrekt. Nach dem Tod von Jesús Arellano und Jorge Tortoza rückte die MP wieder vor. Sie wurden dann in ein Feuergefecht verwickelt, das hauptsächlich von Muñoz aus mit Bewaffneten geführt wurde, die sich unter und auf der Puente Llaguno inmitten den Chávez-Anhängern aufhielten.&lt;/p>
+&lt;p>Es gibt Filmaufnahmen der Stadtpolizei &lt;a class="link" href="https://www.youtube.com/watch?v=QPMe92zH6Ik&amp;amp;version=3&amp;amp;start=3474&amp;amp;end=3476&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>in Piñango.&lt;/a> Beachten Sie die ersten Bilder dieser Aufnahmen: Die MP ist zu sehen und in den Ecken des Bildes sieht man Menschen, die sich gegen das Geländer lehnen. Vielleicht war das, &lt;em>bevor&lt;/em> die Stadtpolizei anfing, auf Menschen &lt;em>auf&lt;/em> der Puente Llaguno zu schiessen?&lt;/p>
+&lt;p>&lt;img src="https://www.logikunsererzeit.ch/post/attachments/11a/227_pminpi%c3%b1ango2.png"
+loading="lazy"
+alt="attachments/11a/227_pminpiñango2.png"
+>&lt;/p>
+&lt;h1 id="andere-beweise">Andere Beweise&lt;/h1>
+&lt;p>&lt;em>Hier arbeite ich zurzeit an der Rekonstruktion&amp;hellip;&lt;/em>&lt;/p>
+&lt;p>In regierungsfreundlichen Dokumentarfilmen (Die Revolution wird nicht im Fernsehen übertragen, Puente Llaguno: Schlüssel zu einem Massaker_,_ War on Democracy und South of the Border) und in der &lt;a class="link" href="https://www.youtube.com/watch?v=6qseQDL7Ygo" target="_blank" rel="noopener"
+>Aussage&lt;/a> von Otto Neustadtl, von der &lt;a class="link" href="https://www.youtube.com/watch?v=JUdezTTgCYQ" target="_blank" rel="noopener"
+>er später sagte, sie sei missbräuchlich verwendet&lt;/a> worden, wird behauptet, dass die Admirale und Generäle um Vizeadmiral Hector Ramírez Pérez eine Todesanzeige angekündigt oder aufgezeichnet hätten &lt;em>, bevor&lt;/em> es Tote auf der Strasse gab. Dies impliziert natürlich, dass diese Todesfälle Teil eines inszenierten Staatsstreichs waren.&lt;/p>
+&lt;p>&lt;a class="link" href="http://www.brianandrewnelson.com/Otto%20Neustaldt.html" target="_blank" rel="noopener"
+>Brian&lt;/a> und &lt;a class="link" href="https://youtu.be/vm2bemNNIjo?t=17m24s" target="_blank" rel="noopener"
+>Alfredo Romero&lt;/a> (vom &lt;em>Foro Penal Venezolano&lt;/em>) behaupten beide, dass Arellano gegen 14:30 Uhr erschossen wurde. In unserem Interview sagte Brian, dass seine Schlussfolgerungen auf mehr als 10 Zeugenaussagen beruhen. Er befragte u.a. &lt;a class="link" href="http://www.brianandrewnelson.com/PhotoGalleryPages/Photo14.htm" target="_blank" rel="noopener"
+>Malvina Pesate und ihren Partner Gorka Lacasa&lt;/a>. Alfredo Meza und Sandra Lafuente schreiben in ihrem Buch &lt;em>El Acertijo de Abril&lt;/em> , dass es nach 15 Uhr geschah.3Alfredo Sie behaupten auch, dass die Behauptung von Otto Neustadtl, einen Anruf am Vorabend erhalten zu haben, nie bewiesen wurde, dass andere Journalisten, die bei der Aufnahme anwesend waren (Javier Ignacio Mayorca, Mayela León und Adrían Ciscaut), bestätigten, dass die Militärs zumindest vom Tod von Jorge Tortoza wussten, und dass sie deshalb überhaupt von Todesfällen sprachen.4 Sie fügen hinzu, dass um 15:15 Uhr die Vorbereitungen für die Aufnahme noch im Gange waren.5 Ebd&lt;/p>
+&lt;p>Dann sind da noch die Uhren in den Situationen der Verletzung von Sauce, des Todes von Tortoza und der Verletzung von Pesate, die in &lt;em>Puente Llaguno&lt;/em> gezeigt werden, von dem Brian &lt;a class="link" href="http://www.brianandrewnelson.com/Venezuela/Coup%20Videos.html" target="_blank" rel="noopener"
+>sagt, dass&lt;/a> er &amp;ldquo;ein Propagandafilm ist, der mit Unterstützung der venezolanischen und kubanischen Regierung gedreht wurde&amp;rdquo;. In unserem Interview fügte Brian erneut hinzu, dass seine Schlussfolgerungen auf mehr als zehn Zeugenaussagen von Anwesenden beruhen, darunter Pesate selbst und ihr Partner. Das Gleiche könnte man sicher auch über Alfredo Romero sagen, mit dem ich noch nicht gesprochen habe.&lt;/p>
+&lt;p>&lt;img src="https://web.archive.org/web/20171004153838im_/https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_tortoza.png?resize=132%2C121"
+loading="lazy"
+> &lt;a class="link" href="https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_pesate.png" target="_blank" rel="noopener"
+>&lt;img src="https://web.archive.org/web/20171004153838im_/https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_pesate.png?resize=174%2C121"
+loading="lazy"
+>&lt;/a> &lt;a class="link" href="https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_sauce.png" target="_blank" rel="noopener"
+>&lt;img src="https://web.archive.org/web/20171004153838im_/https://i1.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_sauce.png?resize=158%2C125"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;p>Brian und ich sprachen auch über Pesates Uhr. Brian wies darauf hin, dass es, wenn man genau hinsieht, gar nicht so aussieht wie 15:50 Uhr. Um 15:50 Uhr befinden sich der Stunden- und der Minutenzeiger fast in einer perfekten Linie (wie bei der Tortoza-Uhr). Auch dies habe ich in einem 3D-Programm nachgebildet, und in der Tat sehen die Zeiger &lt;em>eher&lt;/em> wie 2:50 Uhr aus. Aber es ist sehr unscharf. Wenn Sie eine HD-Version dieses Videos haben, kontaktieren Sie mich bitte!&lt;br>
+&lt;a class="link" href="https://i2.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_pesate2.png" target="_blank" rel="noopener"
+>&lt;img src="https://web.archive.org/web/20171004153838im_/https://i2.wp.com/www.elcontexto.org/wp-content/uploads/2017/04/watch_pesate2.png?resize=300%2C191"
+loading="lazy"
+>&lt;/a>&lt;/p>
+&lt;p>Aber jetzt steckte ich wirklich in Schwierigkeiten. Denken Sie daran, dass Pesate ein paar Sekunden nach Tortoza getroffen wurde. Es scheint, dass er ziemlich direkt abgeholt wurde, während Pesates Partnerin Brian erzählte, dass sie sie nach etwa 10 Minuten weiter weg getragen haben (was im Video zu sehen ist). Es sei denn, eine Uhr ist kaputt oder die Videos sind gefälscht (was ich nicht glaube), ist es unmöglich, dass die beiden eine Stunde auseinander liegen. Die Uhr von Pesate &lt;em>sollte&lt;/em> etwa 10 Minuten später gehen als die Uhr von Tortoza.&lt;/p>
+&lt;p>Gemäss der oben dargelegten Argumentation mit den Sonnenwinkeln reicht der Schatten meiner La Nacional-Rekonstruktion um 15 Uhr eindeutig nicht bis zum Eckstein der Pedrera. Dies geschieht nur zwischen 15:30 und 16 Uhr, was mit den von &lt;em>Puente Llaguno&lt;/em> dargestellten Uhren übereinstimmt.&lt;/p>
+&lt;p>Die Uhren (mit der leichten Unsicherheit von Pesate) und die Sonne stimmen überein, dass Arellano und Tortoza gegen 15.45 Uhr getötet wurden, damit ich nicht irgendwo in meiner Argumentation oder Ausführung einen schweren Fehler mache. Bestätigen Sie es auf jeden Fall!&lt;/p>
+&lt;p>Nach all dem ergibt sich für Baralt das folgende Bild, das ich bisher habe: Wie dieser &lt;a class="link" href="http://www.brianandrewnelson.com/Venezuela/Complicity%20of%20the%20National%20Guard.html" target="_blank" rel="noopener"
+>ausgezeichnete Artikel&lt;/a> von Brian zeigt, war es der Plan der Regierung, die Bolivarischen Kreise &lt;em>in Verbindung&lt;/em> mit der Nationalgarde zur Verteidigung des Palastes einzusetzen; die NG war in den Seitenstrassen präsent, bildete aber keinen Puffer zwischen den Aufmärschen wie in Sucre und in Sur 8 (in letzterem &lt;a class="link" href="https://www.youtube.com/watch?v=vm2bemNNIjo&amp;amp;version=3&amp;amp;start=470&amp;amp;end=570&amp;amp;autoplay=1" target="_blank" rel="noopener"
+>wurde scharfe Munition eingesetzt&lt;/a>); und in der Nähe der &lt;em>Puente Llaguno&lt;/em> wurden Handfeuerwaffen verteilt _._6 Den Die beiden einzigen Gruppen, die auf Videos oder Fotos zu sehen sind, die in Baralt Waffen abfeuern, sind regierungsnahe Bewaffnete und die Stadtpolizei. Ich stimme Brian insofern zu, als dass die Schüsse zwischen diesen beiden Gruppen Menschen getötet haben.&lt;/p>
+&lt;p>Nach den oben gezeigten Videos und der Argumentation (sowie allen Aufnahmen, die ich gesehen habe) hält der Abgeordnete den Marsch der Opposition bis 15 Uhr auf und wird dann von den Regierungsgegnern beschossen. Der Abgeordnete stösst dann das erste Mal zu Muñoz vor, kommt wieder herunter und gibt zumindest dann auch die ersten Schüsse ab (~3:30 Uhr). Die bewaffneten Regierungsanhänger kommen wieder herunter und feuern nicht nur auf den Abgeordneten, sondern auch auf die Demonstranten, wobei Arellano und Tortoza getötet und Sauce und Pesate verwundet werden. Dann drängt die MP wieder nach oben, und ab etwa 16 Uhr kommt es zu einem heftigen Feuergefecht, bei dem Menschen auf beiden Seiten getötet werden.&lt;/p>
+&lt;p>So weit bin ich bisher bei Baralt gekommen.&lt;/p></description></item></channel></rss>
